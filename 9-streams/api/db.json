@@ -1,0 +1,36 @@
+{
+  "streams": [
+    {
+      "title": "111",
+      "description": "222",
+      "id": 1
+    },
+    {
+      "title": "testboi",
+      "description": "yes",
+      "id": 2
+    },
+    {
+      "title": "cpt caveman's toontacular",
+      "description": "old cartoons buddy",
+      "id": 3
+    },
+    {
+      "title": "myStream",
+      "description": "Owned by Jooooo",
+      "id": 4
+    },
+    {
+      "title": "qqq",
+      "description": "www",
+      "userId": "109046734410882312506",
+      "id": 6
+    },
+    {
+      "title": "My Stream",
+      "description": "This is my stream, check me out on Patreon or whatever.",
+      "userId": "109046734410882312506",
+      "id": 7
+    }
+  ]
+}
